@@ -1,2 +1,0 @@
-# passwordgentg
-secure generator password!
